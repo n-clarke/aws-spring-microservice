@@ -1,0 +1,14 @@
+com/s3bucket/file/manager/services/Connection.class
+com/s3bucket/file/manager/services/S3ServiceImpl.class
+com/s3bucket/file/manager/repository/MusicianRepository.class
+com/s3bucket/file/manager/domain/S3Bucket.class
+com/s3bucket/file/manager/services/S3Service.class
+com/s3bucket/file/manager/Application.class
+com/s3bucket/file/manager/services/MusicianService.class
+com/s3bucket/file/manager/controllers/S3Controller.class
+com/s3bucket/file/manager/controllers/MusicianController.class
+com/s3bucket/file/manager/repository/S3BucketRepository.class
+com/s3bucket/file/manager/bootstrapper/BootstrapDataCopy.class
+com/s3bucket/file/manager/bootstrapper/BootstrapData.class
+com/s3bucket/file/manager/services/MusicianServiceImpl.class
+com/s3bucket/file/manager/domain/Musician.class

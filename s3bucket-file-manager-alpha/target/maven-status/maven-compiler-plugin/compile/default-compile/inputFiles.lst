@@ -1,0 +1,14 @@
+/Users/nathanclarke/Desktop/S3 Bucket Project/s3bucket-file-manager-alpha/src/main/java/com/s3bucket/file/manager/services/MusicianService.java
+/Users/nathanclarke/Desktop/S3 Bucket Project/s3bucket-file-manager-alpha/src/main/java/com/s3bucket/file/manager/services/MusicianServiceImpl.java
+/Users/nathanclarke/Desktop/S3 Bucket Project/s3bucket-file-manager-alpha/src/main/java/com/s3bucket/file/manager/controllers/MusicianController.java
+/Users/nathanclarke/Desktop/S3 Bucket Project/s3bucket-file-manager-alpha/src/main/java/com/s3bucket/file/manager/services/S3ServiceImpl.java
+/Users/nathanclarke/Desktop/S3 Bucket Project/s3bucket-file-manager-alpha/src/main/java/com/s3bucket/file/manager/domain/S3Bucket.java
+/Users/nathanclarke/Desktop/S3 Bucket Project/s3bucket-file-manager-alpha/src/main/java/com/s3bucket/file/manager/controllers/S3Controller.java
+/Users/nathanclarke/Desktop/S3 Bucket Project/s3bucket-file-manager-alpha/src/main/java/com/s3bucket/file/manager/bootstrapper/BootstrapDataCopy.java
+/Users/nathanclarke/Desktop/S3 Bucket Project/s3bucket-file-manager-alpha/src/main/java/com/s3bucket/file/manager/bootstrapper/BootstrapData.java
+/Users/nathanclarke/Desktop/S3 Bucket Project/s3bucket-file-manager-alpha/src/main/java/com/s3bucket/file/manager/domain/Musician.java
+/Users/nathanclarke/Desktop/S3 Bucket Project/s3bucket-file-manager-alpha/src/main/java/com/s3bucket/file/manager/repository/MusicianRepository.java
+/Users/nathanclarke/Desktop/S3 Bucket Project/s3bucket-file-manager-alpha/src/main/java/com/s3bucket/file/manager/Application.java
+/Users/nathanclarke/Desktop/S3 Bucket Project/s3bucket-file-manager-alpha/src/main/java/com/s3bucket/file/manager/services/Connection.java
+/Users/nathanclarke/Desktop/S3 Bucket Project/s3bucket-file-manager-alpha/src/main/java/com/s3bucket/file/manager/repository/S3BucketRepository.java
+/Users/nathanclarke/Desktop/S3 Bucket Project/s3bucket-file-manager-alpha/src/main/java/com/s3bucket/file/manager/services/S3Service.java

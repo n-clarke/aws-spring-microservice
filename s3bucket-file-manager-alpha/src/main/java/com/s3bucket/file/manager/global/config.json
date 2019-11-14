@@ -1,0 +1,31 @@
+{
+  "s3bucket": {
+    "name": "s3bucket10000",
+    "data" : {
+      "path": "https://s3-[yourRegion].amazonaws.com/[yourBucket]/",
+      "template-file-url": "https://s3-[yourRegion].amazonaws.com/[yourBucket]/[yourCollectionName]/[yourFolderName]/[yourKeyName]"
+    }
+  },
+  "user-group": {
+    "admin" : {
+      "access-key": "<Your Access Key - Only for testing don't store real admin key>",
+      "secret-key": "<Your Secret Key - Only for testing don't store real admin key>"
+    },
+    "developer" : {
+      "access-key": "<Your Access Key - Do Not Store>",
+      "secret-key": "<Your Secret Key - Do Not Store>"
+    },
+    "devop" : {
+      "access-key": "<Your Access Key - Do Not Store>",
+      "secret-key": "<Your Secret Key - Do Not Store>"
+    },
+    "tester" : {
+      "access-key": "<Your Access Key - Do Not Store>",
+      "secret-key": "<Your Secret Key - Do Not Store>"
+    },
+    "businessanalyst" : {
+      "access-key": "<Your Access Key - Do Not Store>",
+      "secret-key": "<Your Secret Key - Do Not Store>"
+    }
+  }
+}
